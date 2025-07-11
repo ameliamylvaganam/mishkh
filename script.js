@@ -403,17 +403,17 @@ function initMain() {
         "<section class='subtitles'>DIRECTING</section>";
     } else if (i == 3) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
-  /*  } else if (i == 11) {
+    } else if (i == 6) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
-    } else if (i == 15) {
+    /*} else if (i == 15) {
       newline = "<br><section class='subtitles'>SOUND</section>";*/
       // } else if (i == 12) {
       //   newline = "<br><section class='titles'>WRITING</section>";
-    } else if (i == 6) {
+    } else if (i == 8) {
       newline = "<br><section class='titles'>PHOTO</section>";
-    } else if (i == 7) {
-      newline = "<br><section class='titles'>CODE </section>";
     } else if (i == 9) {
+      newline = "<br><section class='titles'>CODE </section>";
+    } else if (i == 11) {
       newline = "<br><br>";
     }
 
