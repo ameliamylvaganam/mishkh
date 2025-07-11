@@ -402,7 +402,7 @@ function initMain() {
       newline =
         "<br><section class='titles'>FILM</section>" +
         "<section class='subtitles'>DIRECTING</section>";
-    } else if (i == 4) {
+    } else if (i == 3) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
   /*  } else if (i == 11) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
@@ -412,9 +412,9 @@ function initMain() {
       //   newline = "<br><section class='titles'>WRITING</section>";
     } else if (i == 6) {
       newline = "<br><section class='titles'>PHOTO</section>";
-    } else if (i == 8) {
+    } else if (i == 7) {
       newline = "<br><section class='titles'>CODE </section>";
-    } else if (i == 10) {
+    } else if (i == 9) {
       newline = "<br><br>";
     }
 
