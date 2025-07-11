@@ -36,8 +36,9 @@ let projects = [
       "camera & editing <b>Mishkh</b><br>sound recording & featuring <b>Eli Han</b><br><br>super 8 on video<br>2025<br>48sec",
     ],
     centeragain: "Moonlighters #3 2025",
-    images: [],
-    embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+    images: ["<a href='https://mishkh.metalabel.com/chiuquon'><img loading='lazy' src='https://metalabel.imgix.net/QmRLMMHwnLovMC9r71jJhKBhNxMRnpjxXYxo1Hga7ofqLv?bg=ffffff&w=3840&fit=min&auto=format' alt='title still from Chiu Quon'></a>",],
+    embedcode: "",
+    /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
   },
   /*{
     name: "balsam x fraser fir hybrid",
