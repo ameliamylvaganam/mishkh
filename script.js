@@ -99,8 +99,7 @@ let projects = [
     leftalign: [
       "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Mishkh</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>April 2025",
     ],
-    centeragain: "Midwest Film Festival Roadshow 2025<br>Bronze Age Film Co-Op x Kiosk 2025
-",
+    centeragain: "Midwest Film Festival Roadshow 2025<br>Bronze Age Film Co-Op x Kiosk 2025",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum1?v=1707525894876' alt='still from Humdrum Ecstasy'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum2?v=1707525906323' alt='still from Humdrum Ecstasy'>",
