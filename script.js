@@ -400,7 +400,7 @@ function initMain() {
     let newline = "";
     if (i == 0) {
       newline =
-        "<br><section class='titles'>FILM</section>" +
+        "<section class='titles'>FILM</section>" +
         "<section class='subtitles'>DIRECTING</section>";
     } else if (i == 3) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
