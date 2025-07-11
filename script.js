@@ -6,7 +6,7 @@ let greetings = [
 let about = [
   {
     image:
-      "<img src='assets/headshot.jpeg' alt='Mishkh slouches in a wooden chair, looking to the right of camera' width='216' height='317.25'/><br><br>",
+      "<img src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987' alt='High-contrast image if Mishkh looking directly into camera' width='105.4' height='141.6'/><br><br>",
     blurb:
       "Exploratory and expansive, Amelia (Mishkh) Mylvaganam aims to create a new world from the cracks and glimmers in this one.",
     contact:
