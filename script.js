@@ -16,7 +16,7 @@ let about = [
 ];
 
 let projects = [
-  {
+ /* {
     name: "Chico Baby",
     username: "chicobaby",
     centeralign: "A portrait of Chico, the king of love.",
@@ -26,7 +26,7 @@ let projects = [
     centeragain: "",
     images: [],
     embedcode: "",
-  },
+  },*/
   {
     name: "Chiu Quon",
     username: "chiuquon",
@@ -35,12 +35,12 @@ let projects = [
     leftalign: [
       "camera & editing <b>Mishkh</b><br>sound recording & featuring <b>Eli Han</b><br><br>super 8 on video<br>2025<br>48sec",
     ],
-    centeragain: "",
+    centeragain: "Moonlighters #3 2025",
     images: [],
     embedcode: "",
-    /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
+    embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
   },
-  {
+  /*{
     name: "balsam x fraser fir hybrid",
     username: "balsam",
     centeralign:
@@ -52,7 +52,7 @@ let projects = [
     images: [],
     embedcode: "",
     /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/vdhioPq2tUY?si=yDrY3adcR9rNUkMr' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
-  },
+  },*/
   {
     name: "Dreamlogic",
     username: "dreamlogic",
@@ -62,7 +62,7 @@ let projects = [
       "director/editor <b>Mishkh</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins",
     ],
     centeragain:
-      "Kansas City Underground Film Festival 2024<br>Blow-up Arthouse Film Festival Semi-Finalist 2024",
+      "Kansas City Underground Film Festival 2024<br>Blow-up Arthouse Film Festival Semi-Finalist 2024<br>Sweet Void Cinema 2023",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/1dreamlogic25.jpg?v=1707639087122' alt='still from Dreamlogic'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/2dreamlogic1.jpg?v=1707639087504' alt='still from Dreamlogic'>",
@@ -81,7 +81,7 @@ let projects = [
     leftalign: [
       "director/editor <b>Mishkh</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec",
     ],
-    centeragain: "Winnipeg Underground Film Festival 2024",
+    centeragain: "Winnipeg Underground Film Festival 2024<br>Sweet Void Cinema 2024",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance1.jpg?v=1707635511975' alt='still from In Remembrance of a Bottle'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance2.jpg?v=1707635512333' alt='still from In Remembrance of a Bottle'>",
@@ -100,7 +100,8 @@ let projects = [
     leftalign: [
       "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Mishkh</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>April 2025",
     ],
-    centeragain: "",
+    centeragain: "Midwest Film Festival Roadshow 2025<br>Bronze Age Film Co-Op x Kiosk 2025
+",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum1?v=1707525894876' alt='still from Humdrum Ecstasy'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum2?v=1707525906323' alt='still from Humdrum Ecstasy'>",
@@ -119,7 +120,7 @@ let projects = [
     leftalign: [
       "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Mishkh</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>short film<br>filmed February 2023, currently in post-production",
     ],
-    centeragain: "",
+    centeragain: "Make News, presented by Minorities in Film, NY/LA/ATL 2025",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/1dreamhotline35.jpg?v=1708671593402' alt='still from DREAMHOTLINE'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/dreamhotline39.jpg?v=1708673145845' alt='still from DREAMHOTLINE'>",
@@ -130,7 +131,7 @@ let projects = [
     ],
     embedcode: "",
   },
-  {
+  /*{
     name: "The Band",
     username: "theband",
     centeralign:
@@ -147,7 +148,7 @@ let projects = [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/wide4lut.png?v=1708924709306' alt='still from The Band'>",
     ],
     embedcode: "",
-  },
+  },*/
   {
     name: "Shelf Life",
     username: "shelflife",
@@ -162,7 +163,7 @@ let projects = [
     embedcode:
       "<video controls controlslist=nodownload><source src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/woman%203%20take%202%20(1).mp4?v=1708705578182' type='video/mp4' /></video>",
   },
-  {
+  /*{
     name: "Pain Motel",
     username: "painmotel",
     centeralign:
@@ -182,8 +183,8 @@ let projects = [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/painmotel7.jpg?v=1708921912328' alt='still from Pain Motel'>",
     ],
     embedcode: "",
-  },
-  {
+  },*/
+ /* {
     name: "Lady Lazarus",
     username: "ladylazarus",
     centeralign:
@@ -194,8 +195,8 @@ let projects = [
     centeragain: "",
     images: [],
     embedcode: "",
-  },
-  {
+  },*/
+ /* {
     name: "Daffodils",
     username: "daffodils",
     centeralign: "Triptych of the filmmaker's most intimate relationships.",
@@ -218,8 +219,8 @@ let projects = [
     images: [],
     embedcode:
       "<iframe title='vimeo-player' src='https://player.vimeo.com/video/525338245?h=bbbab041d3' width='640' height='360' frameborder='0'    allowfullscreen></iframe>",
-  },
-  {
+  },*/
+ /* {
     name: "toast",
     username: "toast",
     centeralign: "Intimate portrait of Eli making toast for 2.",
@@ -230,20 +231,8 @@ let projects = [
     images: [],
     embedcode:
       "<iframe title='vimeo-player' src='https://player.vimeo.com/video/538700142?h=8ca0d7089f' width='640' height='360' frameborder='0'    allowfullscreen></iframe>",
-  },
-  {
-    name: "more",
-    username: "more",
-    centeralign:
-      "<a href='https://www.youtube.com/@myylvaganam/videos' target=_blank>click here for more personal films</a>",
-    leftalign: "",
-    centeragain:
-      "things I make from a need to make something... things I make to make sense of things.<br>here's one from fall 2023 with my mom:",
-    images: [],
-    embedcode:
-      "<iframe width='560' height='315' src='https://www.youtube.com/embed/O3w16eY9WjQ?si=dipZXb15B3R-d080' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
-  },
-  {
+  },*/
+ {
     name: "skateaway",
     username: "skateaway",
     centeralign:
@@ -255,6 +244,18 @@ let projects = [
     images: [],
     embedcode:
       "<iframe width='315' height='315' src='https://www.youtube.com/embed/Sht0H3Idgf8?si=zPMyZKGj78XINQSx' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+  },
+ {
+    name: "more",
+    username: "more",
+    centeralign:
+      "<a href='https://www.youtube.com/@myylvaganam/videos' target=_blank>click here for more personal films</a>",
+    leftalign: "",
+    centeragain:
+      "things I make from a need to make something... things I make to make sense of things.<br>here's one from fall 2023 with my mom:",
+    images: [],
+    embedcode:
+      "<iframe width='560' height='315' src='https://www.youtube.com/embed/O3w16eY9WjQ?si=dipZXb15B3R-d080' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
   },
   {
     name: "tops",
@@ -404,10 +405,10 @@ function initMain() {
         "<section class='subtitles'>DIRECTING</section>";
     } else if (i == 5) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
-    } else if (i == 11) {
+  /*  } else if (i == 11) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
     } else if (i == 15) {
-      newline = "<br><section class='subtitles'>SOUND</section>";
+      newline = "<br><section class='subtitles'>SOUND</section>";*/
       // } else if (i == 12) {
       //   newline = "<br><section class='titles'>WRITING</section>";
     } else if (i == 16) {
