@@ -7,8 +7,7 @@ let about = [
   {
     image:
       "<img src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987' alt='High-contrast image if Mishkh looking directly into camera' width='105.4' height='141.6'/><br><br>",
-    blurb:
-      "Exploratory and expansive, Mishkh (Amelia Mylvaganam) aims to create new worlds from the cracks and glimmers in this one. Her most recent films are tactile explorations of digitality, intimacy, and the textures of daily life and dreams. Shaped by a background in coding and media arts, she holds a B.A. in Computer Science and Radio/Television/Film from Northwestern University. Her work has screened across North America at the Winnipeg Underground Film Festival, Kansas City Underground Film Festival, Angelika Film Center in New York, and venues in Chicago, Atlanta, LA, and DC. She likes herself best when she’s passionate.",
+    blurb: "Exploratory and expansive, Mishkh (Amelia Mylvaganam) aims to create new worlds from the cracks and glimmers in this one. Her most recent films are tactile explorations of digitality, intimacy, and the textures of daily life and dreams. Shaped by a background in coding and media arts, she holds a B.A. in Computer Science and Radio/Television/Film from Northwestern University. Her work has screened across North America at the Winnipeg Underground Film Festival, Kansas City Underground Film Festival, Angelika Film Center in New York, and venues in Chicago, Atlanta, LA, and DC. She likes herself best when she’s passionate.",
     contact:
       "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
     footer:
