@@ -37,7 +37,6 @@ let projects = [
     ],
     centeragain: "Moonlighters #3 2025",
     images: [],
-    embedcode: "",
     embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
   },
   /*{
@@ -51,7 +50,7 @@ let projects = [
     centeragain: "",
     images: [],
     embedcode: "",
-    /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/vdhioPq2tUY?si=yDrY3adcR9rNUkMr' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
+    embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/vdhioPq2tUY?si=yDrY3adcR9rNUkMr' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
   },*/
   {
     name: "Dreamlogic",
@@ -183,8 +182,8 @@ let projects = [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/painmotel7.jpg?v=1708921912328' alt='still from Pain Motel'>",
     ],
     embedcode: "",
-  },*/
- /* {
+  },
+ {
     name: "Lady Lazarus",
     username: "ladylazarus",
     centeralign:
@@ -195,8 +194,8 @@ let projects = [
     centeragain: "",
     images: [],
     embedcode: "",
-  },*/
- /* {
+  },
+ {
     name: "Daffodils",
     username: "daffodils",
     centeralign: "Triptych of the filmmaker's most intimate relationships.",
@@ -219,8 +218,8 @@ let projects = [
     images: [],
     embedcode:
       "<iframe title='vimeo-player' src='https://player.vimeo.com/video/525338245?h=bbbab041d3' width='640' height='360' frameborder='0'    allowfullscreen></iframe>",
-  },*/
- /* {
+  },
+ {
     name: "toast",
     username: "toast",
     centeralign: "Intimate portrait of Eli making toast for 2.",
@@ -403,7 +402,7 @@ function initMain() {
       newline =
         "<br><section class='titles'>FILM</section>" +
         "<section class='subtitles'>DIRECTING</section>";
-    } else if (i == 5) {
+    } else if (i == 4) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
   /*  } else if (i == 11) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
@@ -411,11 +410,11 @@ function initMain() {
       newline = "<br><section class='subtitles'>SOUND</section>";*/
       // } else if (i == 12) {
       //   newline = "<br><section class='titles'>WRITING</section>";
-    } else if (i == 16) {
+    } else if (i == 6) {
       newline = "<br><section class='titles'>PHOTO</section>";
-    } else if (i == 17) {
+    } else if (i == 8) {
       newline = "<br><section class='titles'>CODE </section>";
-    } else if (i == 19) {
+    } else if (i == 10) {
       newline = "<br><br>";
     }
 
