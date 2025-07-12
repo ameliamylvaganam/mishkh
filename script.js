@@ -33,7 +33,7 @@ let projects = [
     centeralign:
       "A glimpse into a bustling morning at a Chicago Chinese bakery.",
     leftalign: [
-      "camera & editing <b>Mishkh</b><br>sound recording & featuring <b>Eli Han</b><br><br>super 8 on video<br>2025<br>48sec",
+      "camera & editing <b>Mishkh</b><br>sound recording & featuring <b>Eli Han</b><br><br>super 8 on video<br>2025<br>49sec",
     ],
     centeragain: "Moonlighters #3 2025",
     images: ["<a href='https://mishkh.metalabel.com/chiuquon'><img loading='lazy' src='https://metalabel.imgix.net/QmRLMMHwnLovMC9r71jJhKBhNxMRnpjxXYxo1Hga7ofqLv?bg=ffffff&w=3840&fit=min&auto=format' alt='title still from Chiu Quon'></a>",],
