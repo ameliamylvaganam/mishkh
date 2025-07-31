@@ -168,7 +168,7 @@ let projects = [
     centeralign:
       "When two siblings find themselves trapped in a strange motel, they are forced to reconsider and repair their relationship.",
     leftalign: [
-      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Eli Han</b> and <b>Caroline Bates</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Xanthe Brown</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Mirrat</b><br><br>2K color<br>short film<br>2022",
+      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Eli Han</b> and <b>Caroline Bates</b><br>cinematography <b>Mishkh</b>, gaffer <b>Xanthe Brown</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Mirrat</b><br><br>2K color<br>short film<br>2022",
     ],
     centeragain: "",
     images: [
