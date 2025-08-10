@@ -21,7 +21,7 @@ a:link, a:visited{
 }
 
 body {
-  background: url("https://cdn.glitch.global/05b6ef36-7c57-463b-ba8a-7bd551aca491/squirrel.jpg?v=1642741851067")
+  background: url("../assets/squirrel.jpg")
     white;
   background-repeat: no-repeat;
   background-size: cover;
