@@ -81,7 +81,7 @@ let projects = [
     leftalign: [
       "director/editor <b>Mishkh</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec",
     ],
-    centeragain: "Winnipeg Underground Film Festival 2024<br>Rhizome DC 2024<br>Sweet Void Cinema 2024",
+    centeragain: "Winnipeg Underground Film Festival 2024<br>Rhizome DC x Filament 2024<br>Sweet Void Cinema 2024",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance1.jpg?v=1707635511975' alt='still from In Remembrance of a Bottle'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance2.jpg?v=1707635512333' alt='still from In Remembrance of a Bottle'>",
